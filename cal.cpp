@@ -64,3 +64,6 @@ int divide(int a, int b) {
     } 
     return a / b; 
 }
+int square(int a) {        // Added square function
+    return a * a;
+}

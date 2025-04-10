@@ -1,15 +1,15 @@
 # DSA-GROUP1-Calculator-project
 This is a group project by CS students to implement c++ calculator code
 
-Group Members
-Group Leader: mujahid muhammednur
-Member 1: Implemented addition functionality.
-Member 2: Implemented subtraction functionality.
-Member 3: Implemented multiplication functionality.
-Member 4: Implemented division functionality.
-Member 5: Implemented the user interface and main program
-member 6: Implemented square functionality logic.
-group members id no
+##Group Members
+**Group Leader**: mujahid muhammednur
+**Member 1**: Implemented addition functionality.
+**Member 2**: Implemented subtraction functionality.
+**Member 3**: Implemented multiplication functionality.
+**Member 4**: Implemented division functionality.
+**Member 5**: Implemented the user interface and main program
+**member 6**: Implemented square functionality logic.
+##group members id no
 mujahid muhammednur..........5517/23
 musa husein ...............2093/23
 misrak firde................4241/23
